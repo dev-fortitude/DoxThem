@@ -13,5 +13,31 @@ Have info that You want to be listed on the website? Please send it to [developm
 
 ---
 
+### What Info Will You Find?
+**Not all "packages" will have the same amount of info. This is what You can mostly expect:**  
+- Full name
+- Age & DOB
+- Gender
+- Sexuality
+- Home address
+- School / work address
+- Family Members
+- Social media usernames
+
+**Info You'll rarely see but may sometimes be included:**  
+- Login credentials
+- Device specification info
+- Network info
+- Messages
+- Media (images, videos, audio, etc)
+
+---
+
 ### Documentation
 Please read through Our [documentation](https://dev-fortitude.github.io/DoxThem/website/documentation.html) for more information.
+
+---
+
+### Notes
+- If Someone listed on the website has done something wrong for the first time, Their info will be removed from the website after 30 days.
+- We ARE NOT responsible for what You do with any data listed on the website.
